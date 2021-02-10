@@ -9,5 +9,5 @@
  * @author Diurno
  */
 public class JoeMama {
-    
+    int x = 0;
 }
