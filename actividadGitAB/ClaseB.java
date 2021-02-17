@@ -10,4 +10,5 @@
  */
 public class ClaseB {
     System.out.println("HOLAA");
+      System.out.println("ADIOS");
 }
