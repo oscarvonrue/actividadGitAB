@@ -9,6 +9,5 @@
  * @author Diurno
  */
 public class ClaseB {
-    System.out.println("HOLAA");
-      System.out.println("ADIOSS");
+    System.out.println("HI");    
 }
