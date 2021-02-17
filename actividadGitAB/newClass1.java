@@ -9,5 +9,5 @@
  * @author Diurno
  */
 public class newClass1 {
-    
+    System.out.print("HOLA");
 }
