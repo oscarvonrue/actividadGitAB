@@ -9,5 +9,5 @@
  * @author Diurno
  */
 public class ClaseB {
-    System.out.println("H");    
+    System.out.println("HDSFS");    
 }
